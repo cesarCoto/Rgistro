@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dimen_padding">16dp</dimen>
+    <dimen name="dimen_margin16dp">16dp</dimen>
+    <dimen name="dimen_margin8dp">8dp</dimen>
+</resources>
